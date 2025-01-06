@@ -18,3 +18,6 @@ Some fields can be kept as they are. Other needs changes:
 - replace fields by comparable information
 - add new fields
 - remove non suitable fields
+
+
+This work is carried out under the auspices of the Boring Fund 2024 with funding from WILDLABS and Arm Ltd.
