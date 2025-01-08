@@ -1,5 +1,6 @@
-# safe_and_sound
-Safe and sound is a pilot project to assess the potential of developing a standard for Passive Acoustic Monitoring metadata based on [Camtrap DP](https://github.com/inbo/camtrapdp).
+# Safe and sound
+
+Safe and sound is a pilot project to assess the potential of developing a standard for Passive Acoustic Monitoring metadata based on [Camtrap DP](https://camtrap-dp.tdwg.org/).
 
 # Collection of use-cases
 Safe and sound must take into account the diversity of PAM use and users.
